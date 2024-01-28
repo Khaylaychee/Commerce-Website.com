@@ -1,0 +1,266 @@
+.section{
+  font-family:sans-serif;
+  margin-bottom: 25%;
+}
+.navigation.img{
+  object-fit: cover;
+}
+.txt{
+  letter-spacing: 2px;
+  margin: -40% 0 0 70px
+}
+.code{
+  color: #FF3E78;
+  font-size: 12px;
+  font-weight: bold;
+  letter-spacing: 0.5px;
+}
+.fall{
+  font-size: 41.6px;
+  width: 25%;
+  line-height: 50px;
+}
+.label{
+  color: #808080;
+  padding: 10px 0 20px 10px;
+  font-size: 14px;
+  width: 29.5%;
+  font-weight: bolder;
+}
+.butt{
+  background-color: black;
+  color: white;
+  cursor: pointer;
+  margin: 0 0 30px 0;
+  font-size: 14px;
+  letter-spacing: 2px;
+  padding: 15px 30px 15px 30px;
+  transition: 0.15s;
+}
+.butt:hover{
+  opacity: 0.8; 
+}
+.butt:active{
+  opacity: 0.6;
+}
+.img-container{
+  letter-spacing: 33px;
+}
+.sect{
+  margin: 65px 87px;
+  text-align: center;
+}
+.shirt{
+  box-shadow: 5px 12px 20px rgba(0, 0, 0, 0.45);
+}
+.shoe{
+  margin-left: 30px;
+  box-shadow: 5px 12px 20px rgba(0, 0, 0, 0.45);
+}
+.glasses{
+  margin-left: 30px;
+  box-shadow: 5px 12px 20px rgba(0, 0, 0, 0.45);
+}
+.sales{
+  margin-bottom: 60px;
+}
+.tale{
+  margin-left: 17%;
+  font-weight: bolder;
+  font-size: 25px;
+}
+.top{
+  margin-bottom: 20px;
+  margin-left: 17%;
+  display: flex;
+}
+.but{
+  background-color: #F05E8A;
+  padding: 10px 15px;
+  margin: 5px 0px 0px;
+  font-size: 14px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white;
+  border: none;
+  border-radius: 16px;
+  transition: 0.60s;
+  cursor: pointer;
+  margin-top: -5px;
+}
+.but:hover{
+  font-size: 14px;
+  background-color: white;
+  color: #F05E8A;
+  border: 1px solid #F05E8A;
+}
+.color{
+  background-color: brown;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 43%;
+}
+.bin{
+  display: flex;
+  margin-top: 10px;
+}
+.col{
+  background-color: green;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 7px;
+}
+.cor{
+  background-color: skyblue;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 7px;
+}
+.laptop{
+  background-color: #F05E8A;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 43%;
+}
+.lap{
+  background-color: skyblue;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 7px;
+}
+.lop{
+  background-color: black;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 7px;
+}
+.com{
+  background-color: green;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 43%;
+}
+.commerce{
+  background-color: gray;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 7px;
+}
+.merce{
+  background-color: brown;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 7px;
+}
+.bs2{
+  margin-left: 70px;
+}
+.screen{
+  margin-left: 70px;
+}
+.bs3{
+  margin-left: 40px;
+}
+.coerce{
+  background-color: gray;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 43%;
+}
+.lat{
+  background-color: #F05E8A;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 7px;
+}
+.lip{
+  background-color: black;
+  height: 15px;
+  width: 15px;
+  border-radius: 16px;
+  margin-left: 43%;
+}
+.tot{
+  color: #FF3E78;
+  font-weight: bolder;
+}
+.line{
+  width: 60px;
+  margin-top: 15px;
+  height: 3px;
+  background-color: #FF3E78;
+}
+.tot:hover{
+  color: black;
+}
+.line:hover{
+  width: 2px;
+  height: 0px;
+}
+.con{
+  display: flex;
+  margin-left: 22%;
+}
+.mat{
+  color: #FF3E78;
+  font-weight: bold;
+  font-size: 20px;
+  margin: 0px 0px 15px 22%;
+}
+.tact{
+  font-size: 40px;
+}
+.act{
+  font-size: 22px;
+  margin: 0px 0px 10px;
+}
+.in{
+  font-size: 22px;
+}
+.us p span{
+  font-size: 17px;
+  font-weight: bold;
+  color: #000000E3;
+}
+.name{
+  margin: 35px 15px;
+  padding: 15px 20px;
+  color: #aaa;
+  border: 1px solid #aaa;
+}
+.sage{
+  margin: 0px 15px;
+  padding: 15px 20px;
+  color:#aaa;
+  border: 1px solid #aaa;
+  width: 430px;
+  height: 120px;
+  font-size: 17px;
+}
+.sage::placeholder{
+  margin-bottom: 60%;
+}
+.ton{
+  font: 14px;
+  margin: 15px;
+  padding: 15px 25px;
+  background-color: black;
+  color: white;
+  border: none;
+  cursor: pointer;
+  transition: 0.15s;
+}
+.ton:hover{
+  opacity: 0.7;
+}
+
